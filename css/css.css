@@ -1,0 +1,122 @@
+body {
+  background: linear-gradient(
+    95.44deg,
+    rgba(174, 18, 228, 0.63) 0.59%,
+    rgba(102, 14, 133, 0.87) 89.68%
+  );
+}
+
+.container {
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.content {
+  background-color: white;
+  width: 588px;
+  height: 588px;
+  border-radius: 10px;
+  
+}
+
+.objetivos {
+  color: #8b54ff;
+  position: relative;
+  top: 36px;
+  left: 30px;
+}
+
+.perst {
+  color: #8b54ff;
+  position: relative;
+  left: 470px;
+}
+
+.line {
+  background-color: #8b54ff;
+  position: relative;
+  width: 521px;
+  height: 1px;
+  left: 20px;
+  top: -20px;
+}
+
+.nome-completo {
+  position: relative;
+  left: 21px;
+}
+
+.seu-objetivo {
+  position: relative;
+  left: 21px;
+}
+
+.seu-email {
+  position: relative;
+  left: 21px;
+}
+
+.input-nome {
+  border-radius: 13px;
+  width: 483px;
+  height: 25px;
+  border-color: #8b54ff;
+}
+
+.email-completo {
+  position: relative;
+  left: 21px;
+}
+
+.email {
+  border-radius: 13px;
+  width: 483px;
+  height: 25px;
+  border-color: #8b54ff;
+}
+
+.input-objetivo {
+  border-radius: 13px;
+  width: 200px;
+  height: 30px;
+  border-color: #8b54ff;
+  display: inline-block;
+}
+
+.input-peso {
+  border-radius: 13px;
+  width: 200px;
+  height: 30px;
+  border-color: #8b54ff;
+  display: inline-block;
+}
+
+div {
+  display: inline-block;
+}
+
+.peso-user {
+  position: relative;
+  left: 95px;
+}
+
+.send-button {
+  position: relative;
+}
+
+.calcular {
+  border-radius: 13px;
+  width: 195px;
+  height: 30px;
+  border-color: #8b54ff;
+  position: relative;
+  top: 40px;
+  left: 21px;
+  background-color: #8b54ff;
+  color: white;
+}
+
+.calcular:hover{
+    background-color: #6F45C9;
+}
